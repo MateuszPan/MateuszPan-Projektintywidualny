@@ -1,0 +1,14 @@
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\bin\Debug\net8.0-windows\QuizGameHistory5.exe
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\bin\Debug\net8.0-windows\QuizGameHistory5.deps.json
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\bin\Debug\net8.0-windows\QuizGameHistory5.runtimeconfig.json
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\bin\Debug\net8.0-windows\QuizGameHistory5.dll
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\bin\Debug\net8.0-windows\QuizGameHistory5.pdb
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\obj\Debug\net8.0-windows\QuizGameHistory5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\obj\Debug\net8.0-windows\QuizGameHistory5.AssemblyInfoInputs.cache
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\obj\Debug\net8.0-windows\QuizGameHistory5.AssemblyInfo.cs
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\obj\Debug\net8.0-windows\QuizGameHistory5.csproj.CoreCompileInputs.cache
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\obj\Debug\net8.0-windows\QuizGameHistory5.dll
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\obj\Debug\net8.0-windows\refint\QuizGameHistory5.dll
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\obj\Debug\net8.0-windows\QuizGameHistory5.pdb
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\obj\Debug\net8.0-windows\QuizGameHistory5.genruntimeconfig.cache
+C:\Users\User\QuizGameHistory5\QuizGameHistory5\obj\Debug\net8.0-windows\ref\QuizGameHistory5.dll
