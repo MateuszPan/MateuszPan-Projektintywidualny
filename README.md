@@ -1,7 +1,7 @@
 QuizGameHistory5
 
 ## Opis
-QuizGameHistory5 to gra quizowa dla uczniów klas V-VIII i dla pasjonatów historii, w której gracze mogą sprawdzać swoją wiedzę odpowiadając na pytania z różnych epok historycznych i poziomów trudności.
+QuizGameHistory5 to gra quizowa dla uczniów klas V-VIII i dla pasjonatów historii, w której gracze mogą sprawdzać swoją wiedzę odpowiadając na pytania z różnych epok historycznych i poziomów trudności. Pytania oparte są na podstawie programowej nauczania historii dla klas V-VIII
 
 ## Funkcje
 - Wybór epoki historycznej
